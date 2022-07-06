@@ -1,0 +1,7 @@
+person_details	nabil mediouni	ISAMM	20	
+person_details	hassen ben abdalah	ESC	24	
+person_details	hamadi ben abdalah	ESC	28	
+person_info	sawsen ganzouii	INSAT	18	
+person_info	sarra ben kadour	INSAT	19	
+person_info	amine guitni	ISAMM	21	
+person_details	amal wsl	INSAT	26	
